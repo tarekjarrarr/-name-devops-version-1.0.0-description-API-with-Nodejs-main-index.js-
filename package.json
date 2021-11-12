@@ -1,0 +1,24 @@
+{
+  "name": "devops-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarekjarrarr/devops-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarekjarrarr/devops-api/issues"
+  },
+  "homepage": "https://github.com/tarekjarrarr/devops-api#readme",
+  "dependencies": {
+    "cpu-stats": "^1.0.0",
+    "node-os-utils": "^1.3.5",
+    "nodemon": "^2.0.15"
+  }
+}
